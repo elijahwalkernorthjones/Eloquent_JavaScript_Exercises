@@ -11,7 +11,7 @@ function myReverse(arr){
 
 
 
-poop = [1,2,3,4,5];
+randomArr = [1,2,3,4,5];
 
 
 function reverseInPlace(arr){
